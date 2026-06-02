@@ -6,21 +6,22 @@ class NumberGuessing{
         
         int low = 1;
         int high = 50;
-        while (low < high){
-            int a = (high - low)/2;
+        while (low <= high){
+            int a = low  + (high - low)/2;
             System.out.println("Number Guessing Game");
-            System.out.println("Is it" + a);
+            System.out.println("Is it " + a);
             String y = sc.next();
-            if (y == "higher"){
-                System.out.println("is your no." + ((high - low)/2) );
-                low = a;
+            if (y.equals("higher")){
+                low = a + 1;
             }
-            else if (y == "lower"){
-                high = a;
-                System.out.println("is your no." + ((high - low)/2) );
+            else if (y.equals("lower")){
+                high = a -1;
+                
             }
             else{
                 System.out.println("you got your no");
+                System.out.println("is " + a );
+                break;
             }
 
         }
