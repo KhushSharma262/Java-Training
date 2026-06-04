@@ -10,3 +10,5 @@ day2 Pre lucnch
  create mode 100644 Traversal1D.java
  1929, 29, 27, 26, 1 Leet code question.
  
+Day 3;
+283, 217, 242, 167, 88, 
