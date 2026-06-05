@@ -58,3 +58,15 @@ Day 3;
 PS C:\Users\hpcnd\OneDrive\Desktop\Training> 
  Q No. 35, 278, 367
 
+ Day 5:
+ 9 files changed, 171 insertions(+), 1 deletion(-)
+ create mode 100644 DeletionLL.java
+ create mode 100644 InsertionLL.class
+ create mode 100644 InsertioninLL.java
+ create mode 100644 Linkedlist.class
+ create mode 100644 Linkedlist.java
+ create mode 100644 N.class
+ create mode 100644 N.java
+ create mode 100644 Node.class
+ Q No. 51, 2235, 7, 74
+
