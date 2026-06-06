@@ -70,3 +70,5 @@ PS C:\Users\hpcnd\OneDrive\Desktop\Training>
  create mode 100644 Node.class
  Q No. 51, 2235, 7, 74
 
+Day 6:
+
