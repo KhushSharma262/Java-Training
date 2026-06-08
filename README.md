@@ -71,4 +71,8 @@ PS C:\Users\hpcnd\OneDrive\Desktop\Training>
  Q No. 51, 2235, 7, 74
 
 Day 6:
-
+ 4 files changed, 37 insertions(+)
+ create mode 100644 Ayyaalist.class
+ create mode 100644 Ayyaalist.java
+ create mode 100644 DoublyLL.java
+ Q No. 367, 20, 203, 707, 206
